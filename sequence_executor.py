@@ -4,8 +4,35 @@ from pyautogui import *
 
 
 class SequenceExecutor:
+
+    @staticmethod
+    def smooth_scroll(hc, e):
+
+        max_length = 6
+        between_delay = 0.5
+
+        hc.move((e.x, e.y), e.delay)
+
+        times = abs(e.dy) // max_length
+        rest = abs(e.dy) % max_length
+
+        for i in range(0, times):
+            if e.dy > 0:
+                scroll(max_length, e.x, e.y)
+            else:
+                scroll(-max_length, e.x, e.y)
+            sleep(between_delay)
+
+        if e.dy > 0:
+            scroll(rest, e.x, e.y)
+        else:
+            scroll(-rest, e.x, e.y)
+
+        sleep(between_delay)
+
     @staticmethod
     def execute(filename):
+
         event_list = FileReader.read_from_file(filename)
 
         hc = HumanClicker()
@@ -18,5 +45,5 @@ class SequenceExecutor:
                 hc.move((e.x, e.y), e.delay)
                 rightClick(e.x, e.y)
             elif e.event == EventType.SCROLL.value:
-                vscroll(e.dy, e.x, e.y)
-                hscroll(e.dx, e.x, e.y)
+                SequenceExecutor.smooth_scroll(hc, e)
+
