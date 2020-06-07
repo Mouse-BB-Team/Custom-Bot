@@ -5,6 +5,7 @@ class EventType(Enum):
     SCROLL = 'scroll'
     BUTTON_LEFT = 'left-button'
     BUTTON_RIGHT = 'right-button'
+    MOVE = 'move'
 
 
 class Event:

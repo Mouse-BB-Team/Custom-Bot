@@ -46,4 +46,6 @@ class SequenceExecutor:
                 rightClick(e.x, e.y)
             elif e.event == EventType.SCROLL.value:
                 SequenceExecutor.smooth_scroll(hc, e)
+            elif e.event == EventType.MOVE.value:
+                hc.move((e.x, e.y), e.delay)
 
