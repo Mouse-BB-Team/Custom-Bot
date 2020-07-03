@@ -48,4 +48,3 @@ class SequenceExecutor:
                 SequenceExecutor.smooth_scroll(hc, e)
             elif e.event == EventType.MOVE.value:
                 hc.move((e.x, e.y), e.delay)
-

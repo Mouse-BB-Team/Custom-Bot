@@ -9,6 +9,7 @@ from math import floor
 
 
 class ScreenCollector:
+
     @staticmethod
     def run(filename, sequence_name, sequence_id):
         mouse_controller = Controller()
@@ -50,7 +51,7 @@ class ScreenCollector:
 
                     return False
 
-                elif key == keyboard.Key.space:
+                elif key == keyboard.Key.caps_lock:
                     on_space_record_move(*mouse_controller.position)
 
             with KeyboardListener(on_press=on_keyboard_press) as keyboard_listener:
