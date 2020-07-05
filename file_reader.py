@@ -14,6 +14,6 @@ class FileReader:
 
         for element in read_list['sequence']:
             e = element['element']
-            event_list.append(Event(e['x'], e['y'], e['dx'], e['dy'], e['delay'], e['event']))
+            event_list.append(Event(e['x'], e['y'], e['dx'], e['dy'], e['delay'], e['event'], e['ord']))
 
         return event_list

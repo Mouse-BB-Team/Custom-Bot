@@ -34,6 +34,7 @@ class SequenceExecutor:
     def execute(filename):
 
         event_list = FileReader.read_from_file(filename)
+        event_list.sort(key=lambda x: x.order, reverse=False)
 
         hc = HumanClicker()
 
