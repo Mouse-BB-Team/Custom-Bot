@@ -61,7 +61,7 @@ class ScreenCollector:
 
             ScreenCollector.p_prev = p
 
-        def on_space_record_move(x, y):
+        def on_caps_lock_record_move(x, y):
 
             p = (floor(x), floor(y))
 
@@ -79,7 +79,7 @@ class ScreenCollector:
                     return False
 
                 elif key == keyboard.Key.caps_lock:
-                    on_space_record_move(*mouse_controller.position)
+                    on_caps_lock_record_move(*mouse_controller.position)
 
             with KeyboardListener(on_press=on_keyboard_press) as keyboard_listener:
                 keyboard_listener.join()
