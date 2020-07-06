@@ -1,0 +1,92 @@
+id: '4'
+name: Sequence of picking item from index page then going to checkout
+sequence:
+- element:
+    delay: 0.54101125416105
+    dx: 0
+    dy: -7
+    event: scroll
+    ord: 1
+    x: 771
+    y: 369
+- element:
+    delay: 0.556325149795175
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 2
+    x: 709
+    y: 517
+- element:
+    delay: 0.6920623552933689
+    dx: 0
+    dy: -5
+    event: scroll
+    ord: 3
+    x: 433
+    y: 679
+- element:
+    delay: 0.6553921370169276
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 599
+    y: 461
+- element:
+    delay: 0.6787426419145483
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 900
+    y: 466
+- element:
+    delay: 0.6633744868803466
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 1191
+    y: 473
+- element:
+    delay: 0.550274584834912
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 7
+    x: 1128
+    y: 615
+- element:
+    delay: 0.8176949819451349
+    dx: 0
+    dy: 0
+    event: move
+    ord: 8
+    x: 1184
+    y: 192
+- element:
+    delay: 0.40130567547375895
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 9
+    x: 1185
+    y: 193
+- element:
+    delay: 0.6428094536786364
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 1064
+    y: 407
+- element:
+    delay: 1.2975201161197418
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 11
+    x: 190
+    y: 185
+sequence_length: 11

@@ -1,0 +1,116 @@
+id: '18'
+name: From pages tab to blog details page
+sequence:
+- element:
+    delay: 0.5892831884171295
+    dx: 0
+    dy: 0
+    event: move
+    ord: 1
+    x: 896
+    y: 269
+- element:
+    delay: 0.6813475442147396
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 1193
+    y: 276
+- element:
+    delay: 0.48424909233236496
+    dx: 0
+    dy: 0
+    event: move
+    ord: 3
+    x: 1116
+    y: 326
+- element:
+    delay: 0.4579010540407019
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 4
+    x: 1174
+    y: 326
+- element:
+    delay: 0.9839898787980904
+    dx: 0
+    dy: -7
+    event: scroll
+    ord: 5
+    x: 574
+    y: 526
+- element:
+    delay: 0.5969060915481476
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 785
+    y: 501
+- element:
+    delay: 0.7479475241908219
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 427
+    y: 576
+- element:
+    delay: 0.4009276987520676
+    dx: 0
+    dy: -4
+    event: scroll
+    ord: 8
+    x: 427
+    y: 577
+- element:
+    delay: 0.554428280081077
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 9
+    x: 779
+    y: 406
+- element:
+    delay: 0.4767493489243532
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 711
+    y: 354
+- element:
+    delay: 0.5882753417319047
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 11
+    x: 576
+    y: 492
+- element:
+    delay: 0.43796818386424113
+    dx: 0
+    dy: 0
+    event: move
+    ord: 12
+    x: 320
+    y: 671
+- element:
+    delay: 1.1302893101605254
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 13
+    x: 1106
+    y: 658
+- element:
+    delay: 1.4342533596477987
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 14
+    x: 169
+    y: 197
+sequence_length: 14

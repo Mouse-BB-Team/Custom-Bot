@@ -1,0 +1,44 @@
+id: '2'
+name: Switching language on top of the mainpage
+sequence:
+- element:
+    delay: 0.5553833773680744
+    dx: 0
+    dy: 0
+    event: move
+    ord: 1
+    x: 361
+    y: 101
+- element:
+    delay: 1.14282447760681
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 1174
+    y: 98
+- element:
+    delay: 0.47597395779365387
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 1090
+    y: 92
+- element:
+    delay: 0.46787738632259174
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 4
+    x: 1135
+    y: 148
+- element:
+    delay: 1.0767399562909068
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 503
+    y: 426
+sequence_length: 5

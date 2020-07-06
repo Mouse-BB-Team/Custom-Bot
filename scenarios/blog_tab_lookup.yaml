@@ -1,0 +1,100 @@
+id: '8'
+name: Going to blog tab for lookup
+sequence:
+- element:
+    delay: 0.7333441477835576
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 1
+    x: 911
+    y: 268
+- element:
+    delay: 0.6197347258760614
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 2
+    x: 724
+    y: 417
+- element:
+    delay: 0.5069436795751275
+    dx: 0
+    dy: 0
+    event: move
+    ord: 3
+    x: 623
+    y: 464
+- element:
+    delay: 0.8693660637972691
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 1074
+    y: 666
+- element:
+    delay: 0.6428253821691295
+    dx: 0
+    dy: -4
+    event: scroll
+    ord: 5
+    x: 821
+    y: 684
+- element:
+    delay: 0.5004997022843628
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 693
+    y: 695
+- element:
+    delay: 0.7464294364106305
+    dx: 0
+    dy: -7
+    event: scroll
+    ord: 7
+    x: 1043
+    y: 624
+- element:
+    delay: 0.40269168945805917
+    dx: 0
+    dy: 2
+    event: scroll
+    ord: 8
+    x: 1041
+    y: 604
+- element:
+    delay: 0.6784742146468271
+    dx: 0
+    dy: 0
+    event: move
+    ord: 9
+    x: 747
+    y: 539
+- element:
+    delay: 0.6086801863314255
+    dx: 0
+    dy: 0
+    event: move
+    ord: 10
+    x: 948
+    y: 636
+- element:
+    delay: 0.5549193245519048
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 11
+    x: 860
+    y: 775
+- element:
+    delay: 1.259239832882487
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 12
+    x: 205
+    y: 189
+sequence_length: 12

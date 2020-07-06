@@ -1,0 +1,124 @@
+id: '19'
+name: Checking instagram and blog on mainpage
+sequence:
+- element:
+    delay: 0.8046403830226276
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 1
+    x: 1187
+    y: 621
+- element:
+    delay: 0.6287687211469918
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 2
+    x: 1368
+    y: 453
+- element:
+    delay: 0.7740003732063361
+    dx: 0
+    dy: -30
+    event: scroll
+    ord: 3
+    x: 981
+    y: 544
+- element:
+    delay: 0.4435936894247026
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 834
+    y: 476
+- element:
+    delay: 0.8668706620175135
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 1304
+    y: 472
+- element:
+    delay: 1.0724473346777046
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 613
+    y: 433
+- element:
+    delay: 0.6468871150822727
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 365
+    y: 430
+- element:
+    delay: 0.6376672442542066
+    dx: 0
+    dy: 0
+    event: move
+    ord: 8
+    x: 118
+    y: 461
+- element:
+    delay: 0.8531198201024469
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 9
+    x: 590
+    y: 448
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -36
+    event: scroll
+    ord: 10
+    x: 590
+    y: 448
+- element:
+    delay: 0.41588793275703456
+    dx: 0
+    dy: 0
+    event: move
+    ord: 11
+    x: 397
+    y: 498
+- element:
+    delay: 0.6278533388418491
+    dx: 0
+    dy: 0
+    event: move
+    ord: 12
+    x: 646
+    y: 513
+- element:
+    delay: 0.76888768072753
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 13
+    x: 1007
+    y: 685
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 14
+    x: 1007
+    y: 685
+- element:
+    delay: 1.305433490183313
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 15
+    x: 178
+    y: 191
+sequence_length: 15

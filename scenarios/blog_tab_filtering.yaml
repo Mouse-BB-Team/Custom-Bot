@@ -1,0 +1,116 @@
+id: '9'
+name: Going to blog tab and apply filters, then pick one post
+sequence:
+- element:
+    delay: 0.4558746567454101
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 1
+    x: 916
+    y: 287
+- element:
+    delay: 1.3187722769966475
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 2
+    x: 67
+    y: 642
+- element:
+    delay: 0.5202572229761707
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 164
+    y: 564
+- element:
+    delay: 0.7250534732497546
+    dx: 0
+    dy: -5
+    event: scroll
+    ord: 4
+    x: 503
+    y: 652
+- element:
+    delay: 0.6603121901446978
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 290
+    y: 498
+- element:
+    delay: 0.6055668545804678
+    dx: 0
+    dy: -6
+    event: scroll
+    ord: 6
+    x: 145
+    y: 646
+- element:
+    delay: 0.4030231222658822
+    dx: 0
+    dy: 2
+    event: scroll
+    ord: 7
+    x: 148
+    y: 642
+- element:
+    delay: 0.4912156271667552
+    dx: 0
+    dy: 0
+    event: move
+    ord: 8
+    x: 201
+    y: 558
+- element:
+    delay: 0.5370083018745793
+    dx: 0
+    dy: 0
+    event: move
+    ord: 9
+    x: 338
+    y: 517
+- element:
+    delay: 0.4802193945945541
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 312
+    y: 596
+- element:
+    delay: 1.107640154203113
+    dx: 0
+    dy: -5
+    event: scroll
+    ord: 11
+    x: 1039
+    y: 617
+- element:
+    delay: 0.4075623791222774
+    dx: 0
+    dy: 0
+    event: move
+    ord: 12
+    x: 1022
+    y: 616
+- element:
+    delay: 0.7983490542174634
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 13
+    x: 609
+    y: 715
+- element:
+    delay: 0.9955790800668822
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 14
+    x: 202
+    y: 197
+sequence_length: 14

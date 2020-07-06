@@ -1,0 +1,84 @@
+id: '17'
+name: From pages tab to cart view and next to checkout
+sequence:
+- element:
+    delay: 1.236878534210209
+    dx: 0
+    dy: 0
+    event: move
+    ord: 1
+    x: 1227
+    y: 285
+- element:
+    delay: 0.5069077476897499
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 2
+    x: 1165
+    y: 382
+- element:
+    delay: 1.0293500014521566
+    dx: 0
+    dy: 0
+    event: move
+    ord: 3
+    x: 538
+    y: 570
+- element:
+    delay: 0.5806812484480951
+    dx: 0
+    dy: -8
+    event: scroll
+    ord: 4
+    x: 735
+    y: 603
+- element:
+    delay: 0.40095786869777383
+    dx: 0
+    dy: 13
+    event: scroll
+    ord: 5
+    x: 1078
+    y: 728
+- element:
+    delay: 0.8774838202465949
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 1239
+    y: 272
+- element:
+    delay: 0.5642074919293287
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 7
+    x: 1156
+    y: 415
+- element:
+    delay: 0.7089079064821137
+    dx: 0
+    dy: -8
+    event: scroll
+    ord: 8
+    x: 847
+    y: 545
+- element:
+    delay: 0.4009343235178454
+    dx: 0
+    dy: 8
+    event: scroll
+    ord: 9
+    x: 848
+    y: 541
+- element:
+    delay: 1.123795497643258
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 181
+    y: 199
+sequence_length: 10

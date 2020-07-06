@@ -1,0 +1,68 @@
+id: '1'
+name: Index page tabs discovery
+sequence:
+- element:
+    delay: 0.6959085795806228
+    dx: 0
+    dy: 0
+    event: move
+    ord: 1
+    x: 279
+    y: 278
+- element:
+    delay: 0.6166739621507424
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 498
+    y: 280
+- element:
+    delay: 0.5225332408922139
+    dx: 0
+    dy: 0
+    event: move
+    ord: 3
+    x: 633
+    y: 294
+- element:
+    delay: 0.5467905600684353
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 786
+    y: 275
+- element:
+    delay: 0.5402331521945071
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 929
+    y: 276
+- element:
+    delay: 0.5235127137351462
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 1053
+    y: 284
+- element:
+    delay: 0.5204527415521818
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 1176
+    y: 269
+- element:
+    delay: 0.6398587181759493
+    dx: 0
+    dy: 0
+    event: move
+    ord: 8
+    x: 1144
+    y: 517
+sequence_length: 8

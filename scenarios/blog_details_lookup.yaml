@@ -1,0 +1,164 @@
+id: '10'
+name: Reading selected blog post
+sequence:
+- element:
+    delay: 0.9535140591245953
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 1
+    x: 950
+    y: 276
+- element:
+    delay: 0.5568315213759569
+    dx: 0
+    dy: -5
+    event: scroll
+    ord: 2
+    x: 873
+    y: 428
+- element:
+    delay: 0.6837527201752316
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 984
+    y: 718
+- element:
+    delay: 0.6966669160261192
+    dx: 0
+    dy: -6
+    event: scroll
+    ord: 4
+    x: 738
+    y: 517
+- element:
+    delay: 0.8883046508057839
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 228
+    y: 524
+- element:
+    delay: 0.9680749939050707
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 849
+    y: 528
+- element:
+    delay: 0.9655318570816986
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 271
+    y: 553
+- element:
+    delay: 1.0098232167818226
+    dx: 0
+    dy: 0
+    event: move
+    ord: 8
+    x: 920
+    y: 595
+- element:
+    delay: 0.973509137895718
+    dx: 0
+    dy: 0
+    event: move
+    ord: 9
+    x: 323
+    y: 618
+- element:
+    delay: 0.8989687696766084
+    dx: 0
+    dy: 0
+    event: move
+    ord: 10
+    x: 836
+    y: 627
+- element:
+    delay: 0.7206417698065062
+    dx: 0
+    dy: 0
+    event: move
+    ord: 11
+    x: 1164
+    y: 673
+- element:
+    delay: 1.226162665185564
+    dx: 0
+    dy: 0
+    event: move
+    ord: 12
+    x: 291
+    y: 688
+- element:
+    delay: 0.7053692519144197
+    dx: 0
+    dy: -10
+    event: scroll
+    ord: 13
+    x: 619
+    y: 724
+- element:
+    delay: 0.8302616980487603
+    dx: 0
+    dy: 0
+    event: move
+    ord: 14
+    x: 274
+    y: 634
+- element:
+    delay: 1.0815675072771218
+    dx: 0
+    dy: -5
+    event: scroll
+    ord: 15
+    x: 1018
+    y: 681
+- element:
+    delay: 0.9731868612795804
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 16
+    x: 430
+    y: 465
+- element:
+    delay: 0.48394071378064457
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 17
+    x: 401
+    y: 385
+- element:
+    delay: 0.8286343944536526
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 18
+    x: 858
+    y: 394
+- element:
+    delay: 0.9694514664310705
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 19
+    x: 287
+    y: 631
+- element:
+    delay: 0.8270002588587335
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 20
+    x: 200
+    y: 179
+sequence_length: 20
