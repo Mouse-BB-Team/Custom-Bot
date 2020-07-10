@@ -1,6 +1,6 @@
 import yaml
 from typing import List
-from event import *
+from Event import *
 
 
 class FileSaver:
