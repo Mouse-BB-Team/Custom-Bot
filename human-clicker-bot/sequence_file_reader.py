@@ -1,7 +1,7 @@
 import yaml
 import logging.config
 from typing import List
-from Event import *
+from event import *
 
 logging.config.fileConfig('logger.config')
 

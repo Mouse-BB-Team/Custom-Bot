@@ -4,7 +4,7 @@ import threading
 
 from pynput import keyboard
 from pynput.keyboard import Listener as KeyboardListener
-from SequenceFileReader import *
+from sequence_file_reader import *
 from pyclick.humanclicker import HumanClicker
 from pyautogui import *
 
@@ -45,7 +45,7 @@ class SequenceExecutor(threading.Thread):
 
         sleep(between_delay)
 
-    def run(self) -> None:
+    def run(self):
 
         self.logger.info("Starting execution: %s", self.filename)
 

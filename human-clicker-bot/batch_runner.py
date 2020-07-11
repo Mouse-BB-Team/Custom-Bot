@@ -6,7 +6,7 @@ import sys
 import threading
 import time
 import yaml
-from SequenceExecutor import SequenceExecutor
+from sequence_executor import SequenceExecutor
 from pynput import keyboard
 from pynput.keyboard import Listener as KeyboardListener
 
@@ -32,7 +32,7 @@ class BatchRunner(threading.Thread):
         self.setDaemon(True)
         self.setName(self.__class__.__name__)
 
-    def run(self) -> None:
+    def run(self):
         filenames = os.listdir(self.directory)
 
         filenames[:] = [self.directory + '/' + file for file in filenames]
@@ -62,7 +62,7 @@ if __name__ == '__main__':
     logger = logging.getLogger('Main')
 
     parser = argparse.ArgumentParser(description='Execute batch of yaml sequences from directory')
-    parser.add_argument('-d', required=False, type=str, help='director with yaml sequences')
+    parser.add_argument('-d', required=False, type=str, help='directory with yaml sequences')
     parser.add_argument('-t', required=False, type=int, help='delay time between execution of sequences')
     args = parser.parse_args()
     root_dir = args.d
