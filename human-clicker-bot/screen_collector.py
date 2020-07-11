@@ -82,6 +82,7 @@ class ScreenCollector:
     def run(self):
 
         with MouseListener(on_click=self.on_click, on_scroll=self.on_scroll) as mouse_listener:
+
             def on_keyboard_press(key):
                 if key == keyboard.Key.esc:
                     mouse_listener.stop()
@@ -91,6 +92,7 @@ class ScreenCollector:
                     return False
 
                 elif key == keyboard.Key.caps_lock:
+                  
                     self.on_caps_lock_record_move(*self.mouse_controller.position)
 
             with KeyboardListener(on_press=on_keyboard_press) as keyboard_listener:
