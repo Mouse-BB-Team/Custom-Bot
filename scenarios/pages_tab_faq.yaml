@@ -1,0 +1,164 @@
+id: '16'
+name: Going to faq panel from pages tab
+sequence:
+- element:
+    delay: 0.7988072716623615
+    dx: 0
+    dy: 0
+    event: move
+    ord: 1
+    x: 1187
+    y: 277
+- element:
+    delay: 0.6013031341563868
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 2
+    x: 1128
+    y: 471
+- element:
+    delay: 1.3558810332282767
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 159
+    y: 452
+- element:
+    delay: 0.40097027109762867
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 4
+    x: 158
+    y: 452
+- element:
+    delay: 0.4647237483302494
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 200
+    y: 508
+- element:
+    delay: 0.6183771806021034
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 6
+    x: 425
+    y: 579
+- element:
+    delay: 0.6373212006033315
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 170
+    y: 545
+- element:
+    delay: 1.3757286539766833
+    dx: 0
+    dy: 0
+    event: move
+    ord: 8
+    x: 1169
+    y: 559
+- element:
+    delay: 1.282400822627003
+    dx: 0
+    dy: 0
+    event: move
+    ord: 9
+    x: 232
+    y: 571
+- element:
+    delay: 0.4927708765019746
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 154
+    y: 505
+- element:
+    delay: 0.46292950663129817
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 11
+    x: 155
+    y: 570
+- element:
+    delay: 0.4484663520974738
+    dx: 0
+    dy: 0
+    event: move
+    ord: 12
+    x: 187
+    y: 611
+- element:
+    delay: 1.3104914250637054
+    dx: 0
+    dy: 0
+    event: move
+    ord: 13
+    x: 1184
+    y: 614
+- element:
+    delay: 1.2081157099932893
+    dx: 0
+    dy: 0
+    event: move
+    ord: 14
+    x: 370
+    y: 631
+- element:
+    delay: 0.617909099099779
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 15
+    x: 160
+    y: 571
+- element:
+    delay: 0.513166602223903
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 16
+    x: 153
+    y: 458
+- element:
+    delay: 0.5125304968140745
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 17
+    x: 156
+    y: 576
+- element:
+    delay: 0.46111277429386566
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 18
+    x: 155
+    y: 641
+- element:
+    delay: 0.46777492378942065
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 19
+    x: 157
+    y: 569
+- element:
+    delay: 0.7579539998379021
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 20
+    x: 197
+    y: 183
+sequence_length: 20

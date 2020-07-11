@@ -1,0 +1,180 @@
+id: '7'
+name: Going to shop tab and apply filters
+sequence:
+- element:
+    delay: 0.5355257635215026
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 1
+    x: 589
+    y: 273
+- element:
+    delay: 0.5968489116810335
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 2
+    x: 468
+    y: 431
+- element:
+    delay: 0.6967741487789458
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 155
+    y: 311
+- element:
+    delay: 0.4150708972032681
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 4
+    x: 161
+    y: 325
+- element:
+    delay: 0.6091813743131862
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 5
+    x: 151
+    y: 553
+- element:
+    delay: 0.46169700419947407
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 6
+    x: 147
+    y: 620
+- element:
+    delay: 0.4852595631736264
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 7
+    x: 236
+    y: 631
+- element:
+    delay: 0.4866813207573312
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 296
+    y: 694
+- element:
+    delay: 0.461566704999926
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 9
+    x: 267
+    y: 750
+- element:
+    delay: 0.6071313682687531
+    dx: 0
+    dy: 0
+    event: move
+    ord: 10
+    x: 173
+    y: 560
+- element:
+    delay: 0.5656673866307703
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 11
+    x: 304
+    y: 673
+- element:
+    delay: 0.43289688453828506
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 12
+    x: 272
+    y: 656
+- element:
+    delay: 0.45628453982521794
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 13
+    x: 216
+    y: 647
+- element:
+    delay: 0.4630541339408783
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 14
+    x: 267
+    y: 689
+- element:
+    delay: 0.4228365269113545
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 15
+    x: 291
+    y: 694
+- element:
+    delay: 0.4124144577923404
+    dx: 0
+    dy: -10
+    event: scroll
+    ord: 16
+    x: 295
+    y: 707
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 5
+    event: scroll
+    ord: 17
+    x: 294
+    y: 707
+- element:
+    delay: 0.6036222276099366
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 18
+    x: 160
+    y: 544
+- element:
+    delay: 1.1361508746724707
+    dx: 0
+    dy: 0
+    event: move
+    ord: 19
+    x: 898
+    y: 610
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -11
+    event: scroll
+    ord: 20
+    x: 898
+    y: 610
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 12
+    event: scroll
+    ord: 21
+    x: 898
+    y: 610
+- element:
+    delay: 1.1895342085062002
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 22
+    x: 195
+    y: 193
+sequence_length: 22

@@ -1,0 +1,172 @@
+id: '14'
+name: Viewing the cart content
+sequence:
+- element:
+    delay: 1.0292958500596807
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 1
+    x: 1186
+    y: 188
+- element:
+    delay: 0.5412994460457907
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 1047
+    y: 220
+- element:
+    delay: 0.614233245901356
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 1074
+    y: 448
+- element:
+    delay: 0.4145909921286497
+    dx: 0
+    dy: -7
+    event: scroll
+    ord: 4
+    x: 1059
+    y: 443
+- element:
+    delay: 0.48546829045210727
+    dx: 0
+    dy: 3
+    event: scroll
+    ord: 5
+    x: 997
+    y: 382
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 6
+    x: 997
+    y: 382
+- element:
+    delay: 0.7683056276668156
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 1225
+    y: 710
+- element:
+    delay: 0.8652219778955454
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 8
+    x: 883
+    y: 339
+- element:
+    delay: 0.40092426485503324
+    dx: 0
+    dy: 5
+    event: scroll
+    ord: 9
+    x: 883
+    y: 338
+- element:
+    delay: 0.5306367068677674
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 993
+    y: 420
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 11
+    x: 993
+    y: 420
+- element:
+    delay: 0.47182216050963977
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 12
+    x: 920
+    y: 417
+- element:
+    delay: 0.4635861805364028
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 13
+    x: 958
+    y: 474
+- element:
+    delay: 0.6642268648908758
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 14
+    x: 1232
+    y: 528
+- element:
+    delay: 1.1974699795281898
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 15
+    x: 374
+    y: 716
+- element:
+    delay: 0.402948277354495
+    dx: 0
+    dy: -6
+    event: scroll
+    ord: 16
+    x: 377
+    y: 715
+- element:
+    delay: 0.4525899843509972
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 17
+    x: 328
+    y: 731
+- element:
+    delay: 0.5311435767012744
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 18
+    x: 463
+    y: 739
+- element:
+    delay: 0.6117598195455162
+    dx: 0
+    dy: -8
+    event: scroll
+    ord: 19
+    x: 695
+    y: 747
+- element:
+    delay: 0.7959192842490144
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 20
+    x: 1076
+    y: 522
+- element:
+    delay: 1.3203334716140012
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 21
+    x: 194
+    y: 185
+sequence_length: 21

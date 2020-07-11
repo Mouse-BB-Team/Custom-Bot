@@ -1,2 +1,4 @@
-.idea
 venv
+.idea
+__pycache__
+test-scenarios

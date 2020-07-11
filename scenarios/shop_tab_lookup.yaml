@@ -1,0 +1,76 @@
+id: '6'
+name: Going to shop tab and searching
+sequence:
+- element:
+    delay: 0.7697869748091257
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 1
+    x: 620
+    y: 286
+- element:
+    delay: 0.8696620077863572
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 165
+    y: 504
+- element:
+    delay: 1.0638364781913534
+    dx: 0
+    dy: -5
+    event: scroll
+    ord: 3
+    x: 897
+    y: 561
+- element:
+    delay: 0.5959795732764559
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 1097
+    y: 581
+- element:
+    delay: 0.8287478740936061
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 625
+    y: 612
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -6
+    event: scroll
+    ord: 6
+    x: 625
+    y: 612
+- element:
+    delay: 0.666366698041581
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 888
+    y: 715
+- element:
+    delay: 0.4054712346542229
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 884
+    y: 711
+- element:
+    delay: 1.2258433031412488
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 9
+    x: 201
+    y: 189
+sequence_length: 9

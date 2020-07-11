@@ -1,0 +1,156 @@
+id: '0'
+name: Index page lookup
+sequence:
+- element:
+    delay: 0.45706359506387545
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 1
+    x: 298
+    y: 239
+- element:
+    delay: 0.8186312194223653
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 2
+    x: 49
+    y: 353
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 49
+    y: 353
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 4
+    x: 49
+    y: 353
+- element:
+    delay: 0.9529975259707997
+    dx: 0
+    dy: -9
+    event: scroll
+    ord: 5
+    x: 586
+    y: 547
+- element:
+    delay: 0.519727562156417
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 6
+    x: 461
+    y: 473
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 7
+    x: 461
+    y: 473
+- element:
+    delay: 1.2621891626452304
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 1388
+    y: 465
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 9
+    x: 1388
+    y: 465
+- element:
+    delay: 0.7416127768706271
+    dx: 0
+    dy: -8
+    event: scroll
+    ord: 10
+    x: 1019
+    y: 541
+- element:
+    delay: 0.9424313767936523
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 11
+    x: 438
+    y: 471
+- element:
+    delay: 0.710409710052879
+    dx: 0
+    dy: -5
+    event: scroll
+    ord: 12
+    x: 769
+    y: 649
+- element:
+    delay: 0.5524086716297653
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 13
+    x: 962
+    y: 512
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 14
+    x: 962
+    y: 512
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 15
+    x: 962
+    y: 512
+- element:
+    delay: 0.8600905599144626
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 16
+    x: 543
+    y: 302
+- element:
+    delay: 0.8386656979940729
+    dx: 0
+    dy: -20
+    event: scroll
+    ord: 17
+    x: 939
+    y: 578
+- element:
+    delay: 0.5055375229590762
+    dx: 0
+    dy: 46
+    event: scroll
+    ord: 18
+    x: 835
+    y: 546
+- element:
+    delay: 1.0779089610587167
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 19
+    x: 197
+    y: 192
+sequence_length: 19

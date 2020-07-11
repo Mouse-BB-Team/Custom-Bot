@@ -1,0 +1,164 @@
+id: '11'
+name: Searching and going to contact tab
+sequence:
+- element:
+    delay: 1.1024357315407034
+    dx: 0
+    dy: 0
+    event: move
+    ord: 1
+    x: 302
+    y: 94
+- element:
+    delay: 1.1275383778857733
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 1054
+    y: 285
+- element:
+    delay: 0.4591098647875198
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 1115
+    y: 281
+- element:
+    delay: 0.6248412158795664
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 1152
+    y: 505
+- element:
+    delay: 1.0063098989700041
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 5
+    x: 516
+    y: 553
+- element:
+    delay: 1.14363565023856
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 6
+    x: 1252
+    y: 663
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 7
+    x: 1252
+    y: 663
+- element:
+    delay: 0.40133056866356753
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 1251
+    y: 662
+- element:
+    delay: 0.8819431822693007
+    dx: 0
+    dy: 0
+    event: move
+    ord: 9
+    x: 790
+    y: 459
+- element:
+    delay: 0.5842323777274174
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 10
+    x: 823
+    y: 262
+- element:
+    delay: 0.9537696082761148
+    dx: 0
+    dy: 0
+    event: move
+    ord: 11
+    x: 166
+    y: 579
+- element:
+    delay: 0.8869122919129444
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 12
+    x: 655
+    y: 610
+- element:
+    delay: 0.7846514940307248
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 13
+    x: 299
+    y: 427
+- element:
+    delay: 0.8538216868263692
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 14
+    x: 790
+    y: 368
+- element:
+    delay: 0.6809682792181515
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 15
+    x: 1088
+    y: 369
+- element:
+    delay: 0.722282340503896
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 16
+    x: 772
+    y: 453
+- element:
+    delay: 0.4012905832688688
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 17
+    x: 773
+    y: 452
+- element:
+    delay: 0.44900108213244727
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 18
+    x: 821
+    y: 436
+- element:
+    delay: 0.5441953198990569
+    dx: 0
+    dy: 0
+    event: move
+    ord: 19
+    x: 944
+    y: 360
+- element:
+    delay: 1.156107920422662
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 20
+    x: 197
+    y: 189
+sequence_length: 20

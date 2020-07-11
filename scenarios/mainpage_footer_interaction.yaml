@@ -1,0 +1,92 @@
+id: '20'
+name: Checking out info on mainpage footer
+sequence:
+- element:
+    delay: 0.5701755283141146
+    dx: 0
+    dy: -53
+    event: scroll
+    ord: 1
+    x: 445
+    y: 382
+- element:
+    delay: 0.5542800547490814
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 272
+    y: 585
+- element:
+    delay: 0.514077964334665
+    dx: 0
+    dy: 0
+    event: move
+    ord: 3
+    x: 310
+    y: 696
+- element:
+    delay: 0.4758033260899891
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 228
+    y: 703
+- element:
+    delay: 0.46313840726746486
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 161
+    y: 704
+- element:
+    delay: 1.313168578558167
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 1074
+    y: 829
+- element:
+    delay: 0.9784599141419288
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 7
+    x: 561
+    y: 556
+- element:
+    delay: 0.5708258357867222
+    dx: 0
+    dy: -44
+    event: scroll
+    ord: 8
+    x: 737
+    y: 607
+- element:
+    delay: 0.41837245488948643
+    dx: 0
+    dy: 0
+    event: move
+    ord: 9
+    x: 763
+    y: 627
+- element:
+    delay: 0.46670196417056053
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 751
+    y: 559
+- element:
+    delay: 0.7603845925869499
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 11
+    x: 493
+    y: 292
+sequence_length: 11

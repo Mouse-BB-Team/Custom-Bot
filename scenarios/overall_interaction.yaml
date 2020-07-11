@@ -1,0 +1,708 @@
+id: '21'
+name: Overall interaction with the whole page
+sequence:
+- element:
+    delay: 0.46725977290565035
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 1
+    x: 390
+    y: 234
+- element:
+    delay: 0.44515745989462574
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 2
+    x: 382
+    y: 280
+- element:
+    delay: 0.5469893286369236
+    dx: 0
+    dy: 0
+    event: move
+    ord: 3
+    x: 254
+    y: 378
+- element:
+    delay: 0.4021124523394431
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 4
+    x: 256
+    y: 379
+- element:
+    delay: 0.7212226818493419
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 5
+    x: 54
+    y: 642
+- element:
+    delay: 0.5851425752542668
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 6
+    x: 54
+    y: 449
+- element:
+    delay: 0.5806624823763882
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 209
+    y: 543
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 209
+    y: 543
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 9
+    x: 209
+    y: 543
+- element:
+    delay: 0.6000777993769926
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 218
+    y: 750
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 11
+    x: 218
+    y: 750
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 12
+    x: 218
+    y: 750
+- element:
+    delay: 1.098532787436075
+    dx: 0
+    dy: 0
+    event: move
+    ord: 13
+    x: 776
+    y: 267
+- element:
+    delay: 0.49311905238620596
+    dx: 0
+    dy: 0
+    event: move
+    ord: 14
+    x: 712
+    y: 339
+- element:
+    delay: 0.40503969171466764
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 15
+    x: 713
+    y: 334
+- element:
+    delay: 0.7565470130171549
+    dx: 0
+    dy: 0
+    event: move
+    ord: 16
+    x: 1061
+    y: 198
+- element:
+    delay: 0.9687240119260984
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 17
+    x: 455
+    y: 192
+- element:
+    delay: 0.5293272996958647
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 18
+    x: 598
+    y: 182
+- element:
+    delay: 0.7544954275281142
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 19
+    x: 978
+    y: 193
+- element:
+    delay: 0.5598750850503208
+    dx: 0
+    dy: 0
+    event: move
+    ord: 20
+    x: 1141
+    y: 186
+- element:
+    delay: 0.6456538543745438
+    dx: 0
+    dy: -8
+    event: scroll
+    ord: 21
+    x: 968
+    y: 385
+- element:
+    delay: 1.0496089032554827
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 22
+    x: 259
+    y: 416
+- element:
+    delay: 0.6980017139316497
+    dx: 0
+    dy: -14
+    event: scroll
+    ord: 23
+    x: 586
+    y: 465
+- element:
+    delay: 0.5901696009022857
+    dx: 0
+    dy: 2
+    event: scroll
+    ord: 24
+    x: 942
+    y: 367
+- element:
+    delay: 0.40551477908044364
+    dx: 0
+    dy: 0
+    event: move
+    ord: 25
+    x: 942
+    y: 372
+- element:
+    delay: 0.4204006881650387
+    dx: 0
+    dy: -7
+    event: scroll
+    ord: 26
+    x: 928
+    y: 387
+- element:
+    delay: 1.1023601186892118
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 27
+    x: 554
+    y: 115
+- element:
+    delay: 0.8504734556199508
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 28
+    x: 955
+    y: 326
+- element:
+    delay: 0.6320041163318804
+    dx: 0
+    dy: 0
+    event: move
+    ord: 29
+    x: 712
+    y: 335
+- element:
+    delay: 0.9153784224277083
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 30
+    x: 1222
+    y: 447
+- element:
+    delay: 0.9967081936664128
+    dx: 0
+    dy: 0
+    event: move
+    ord: 31
+    x: 638
+    y: 298
+- element:
+    delay: 0.4112393618722643
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 32
+    x: 633
+    y: 287
+- element:
+    delay: 1.0199570962694302
+    dx: 0
+    dy: 0
+    event: move
+    ord: 33
+    x: 50
+    y: 505
+- element:
+    delay: 0.5105845617244467
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 34
+    x: 163
+    y: 511
+- element:
+    delay: 0.6255963066642274
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 35
+    x: 412
+    y: 536
+- element:
+    delay: 0.7364010822123297
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 36
+    x: 151
+    y: 417
+- element:
+    delay: 0.6730688601193715
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 37
+    x: 365
+    y: 588
+- element:
+    delay: 0.5307266363393079
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 38
+    x: 229
+    y: 594
+- element:
+    delay: 0.4513373168805828
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 39
+    x: 230
+    y: 646
+- element:
+    delay: 0.4802161431847667
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 40
+    x: 192
+    y: 571
+- element:
+    delay: 0.5677084384429804
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 41
+    x: 226
+    y: 741
+- element:
+    delay: 0.40099018165480216
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 42
+    x: 226
+    y: 740
+- element:
+    delay: 0.4158224098090617
+    dx: 0
+    dy: 3
+    event: scroll
+    ord: 43
+    x: 229
+    y: 702
+- element:
+    delay: 0.6257847034494454
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 44
+    x: 191
+    y: 459
+- element:
+    delay: 1.3463091665595457
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 45
+    x: 1174
+    y: 621
+- element:
+    delay: 0.4601395087045681
+    dx: 0
+    dy: 0
+    event: move
+    ord: 46
+    x: 1155
+    y: 558
+- element:
+    delay: 0.5405995764058299
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 47
+    x: 1247
+    y: 435
+- element:
+    delay: 0.5892428537733021
+    dx: 0
+    dy: -10
+    event: scroll
+    ord: 48
+    x: 1361
+    y: 606
+- element:
+    delay: 0.4172448780488459
+    dx: 0
+    dy: 14
+    event: scroll
+    ord: 49
+    x: 1329
+    y: 597
+- element:
+    delay: 0.7510522355919036
+    dx: 0
+    dy: 0
+    event: move
+    ord: 50
+    x: 1197
+    y: 269
+- element:
+    delay: 0.5141330095964961
+    dx: 0
+    dy: 0
+    event: move
+    ord: 51
+    x: 1162
+    y: 380
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 52
+    x: 1162
+    y: 380
+- element:
+    delay: 0.4963920266360165
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 53
+    x: 1070
+    y: 429
+- element:
+    delay: 0.468221961111042
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 54
+    x: 1000
+    y: 418
+- element:
+    delay: 0.5489852436810139
+    dx: 0
+    dy: -4
+    event: scroll
+    ord: 55
+    x: 1139
+    y: 482
+- element:
+    delay: 1.1717078508510577
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 56
+    x: 211
+    y: 607
+- element:
+    delay: 1.3268135004460615
+    dx: 0
+    dy: 0
+    event: move
+    ord: 57
+    x: 1177
+    y: 285
+- element:
+    delay: 0.5345010844853939
+    dx: 0
+    dy: 0
+    event: move
+    ord: 58
+    x: 1135
+    y: 413
+- element:
+    delay: 0.40458124416530966
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 59
+    x: 1138
+    y: 417
+- element:
+    delay: 0.9105198445825229
+    dx: 0
+    dy: 0
+    event: move
+    ord: 60
+    x: 625
+    y: 525
+- element:
+    delay: 0.6176916105443433
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 61
+    x: 848
+    y: 473
+- element:
+    delay: 1.0833219443523365
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 62
+    x: 184
+    y: 675
+- element:
+    delay: 0.6295379361531187
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 63
+    x: 289
+    y: 441
+- element:
+    delay: 0.5742844808713695
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 64
+    x: 468
+    y: 452
+- element:
+    delay: 0.6169282419062063
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 65
+    x: 271
+    y: 554
+- element:
+    delay: 0.41091941556736294
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 66
+    x: 271
+    y: 566
+- element:
+    delay: 0.44704383084589494
+    dx: 0
+    dy: 0
+    event: move
+    ord: 67
+    x: 316
+    y: 580
+- element:
+    delay: 0.5241121546009425
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 68
+    x: 191
+    y: 557
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 69
+    x: 191
+    y: 557
+- element:
+    delay: 0.4279165731336706
+    dx: 0
+    dy: 0
+    event: move
+    ord: 70
+    x: 196
+    y: 527
+- element:
+    delay: 0.4800807726785773
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 71
+    x: 176
+    y: 441
+- element:
+    delay: 0.5577924968237755
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 72
+    x: 327
+    y: 521
+- element:
+    delay: 0.41363826699973644
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 73
+    x: 326
+    y: 535
+- element:
+    delay: 0.4258928412909975
+    dx: 0
+    dy: 0
+    event: move
+    ord: 74
+    x: 311
+    y: 511
+- element:
+    delay: 0.5606974311793662
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 75
+    x: 170
+    y: 415
+- element:
+    delay: 0.5028390220017823
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 76
+    x: 200
+    y: 515
+- element:
+    delay: 0.4923760038982735
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 77
+    x: 201
+    y: 614
+- element:
+    delay: 0.6707344792490392
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 78
+    x: 500
+    y: 621
+- element:
+    delay: 0.7092596947417277
+    dx: 0
+    dy: 0
+    event: move
+    ord: 79
+    x: 822
+    y: 611
+- element:
+    delay: 0.4227992818837602
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 80
+    x: 843
+    y: 599
+- element:
+    delay: 0.4055583384901004
+    dx: 0
+    dy: 5
+    event: scroll
+    ord: 81
+    x: 848
+    y: 596
+- element:
+    delay: 0.6013134438469092
+    dx: 0
+    dy: 0
+    event: move
+    ord: 82
+    x: 1209
+    y: 628
+- element:
+    delay: 0.40395439929946275
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 83
+    x: 1205
+    y: 629
+- element:
+    delay: 0.8149447738533084
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 84
+    x: 774
+    y: 654
+- element:
+    delay: 0.6346687638310016
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 85
+    x: 998
+    y: 734
+- element:
+    delay: 0.40094690315500997
+    dx: 0
+    dy: 0
+    event: move
+    ord: 86
+    x: 998
+    y: 734
+- element:
+    delay: 0.8797902998059526
+    dx: 0
+    dy: 0
+    event: move
+    ord: 87
+    x: 1201
+    y: 268
+- element:
+    delay: 1.3136430709479159
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 88
+    x: 189
+    y: 195
+sequence_length: 88

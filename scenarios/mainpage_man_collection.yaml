@@ -1,0 +1,84 @@
+id: '3'
+name: Sequence of searching for men's collection on index page
+sequence:
+- element:
+    delay: 0.6960294595470444
+    dx: 0
+    dy: -7
+    event: scroll
+    ord: 1
+    x: 596
+    y: 492
+- element:
+    delay: 0.7102181626164659
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 859
+    y: 672
+- element:
+    delay: 0.7548743362870123
+    dx: 0
+    dy: -17
+    event: scroll
+    ord: 3
+    x: 1215
+    y: 769
+- element:
+    delay: 1.1704790533618565
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 447
+    y: 608
+- element:
+    delay: 0.9003336739582037
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 5
+    x: 956
+    y: 626
+- element:
+    delay: 0.6152501239601824
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 6
+    x: 1170
+    y: 653
+- element:
+    delay: 0.5143004149792366
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 7
+    x: 1177
+    y: 535
+- element:
+    delay: 0.843866401703493
+    dx: 0
+    dy: 0
+    event: move
+    ord: 8
+    x: 793
+    y: 272
+- element:
+    delay: 0.4911516506698536
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 9
+    x: 710
+    y: 328
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 710
+    y: 328
+sequence_length: 10

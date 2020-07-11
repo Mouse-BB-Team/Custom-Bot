@@ -1,0 +1,68 @@
+id: '12'
+name: Checking footer and subscribing to newsletter
+sequence:
+- element:
+    delay: 0.5204090875194473
+    dx: 0
+    dy: -44
+    event: scroll
+    ord: 1
+    x: 1008
+    y: 461
+- element:
+    delay: 0.6584990470185491
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 590
+    y: 558
+- element:
+    delay: 0.8854676498061144
+    dx: 0
+    dy: 0
+    event: move
+    ord: 3
+    x: 1088
+    y: 635
+- element:
+    delay: 0.5332117807338544
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 4
+    x: 944
+    y: 625
+- element:
+    delay: 0.6527919433025138
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 5
+    x: 1205
+    y: 629
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 6
+    x: 1205
+    y: 629
+- element:
+    delay: 0.415395668859034
+    dx: 0
+    dy: 51
+    event: scroll
+    ord: 7
+    x: 1189
+    y: 625
+- element:
+    delay: 1.2447350600545728
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 201
+    y: 189
+sequence_length: 8

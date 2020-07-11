@@ -1,0 +1,68 @@
+id: '15'
+name: Looking up the pages tab
+sequence:
+- element:
+    delay: 0.9511804919706079
+    dx: 0
+    dy: 0
+    event: move
+    ord: 1
+    x: 1197
+    y: 265
+- element:
+    delay: 0.4720875279904878
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 1150
+    y: 325
+- element:
+    delay: 0.4642366708680358
+    dx: 0
+    dy: 0
+    event: move
+    ord: 3
+    x: 1196
+    y: 374
+- element:
+    delay: 0.4685818624731888
+    dx: 0
+    dy: 0
+    event: move
+    ord: 4
+    x: 1138
+    y: 419
+- element:
+    delay: 0.44296878977564885
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 1123
+    y: 460
+- element:
+    delay: 0.48422367443884706
+    dx: 0
+    dy: 0
+    event: move
+    ord: 6
+    x: 1192
+    y: 516
+- element:
+    delay: 0.47182233442921556
+    dx: 0
+    dy: 0
+    event: move
+    ord: 7
+    x: 1131
+    y: 560
+- element:
+    delay: 1.098844408079823
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 476
+    y: 281
+sequence_length: 8

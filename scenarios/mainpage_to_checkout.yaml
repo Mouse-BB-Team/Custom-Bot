@@ -1,0 +1,196 @@
+id: '5'
+name: Sequence of going to checkout page and filling the form
+sequence:
+- element:
+    delay: 1.0952859251077545
+    dx: 0
+    dy: 0
+    event: move
+    ord: 1
+    x: 1181
+    y: 194
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -1
+    event: scroll
+    ord: 2
+    x: 1181
+    y: 194
+- element:
+    delay: 0.7085236401479225
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 1070
+    y: 509
+- element:
+    delay: 0.4627216554672166
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 4
+    x: 1013
+    y: 471
+- element:
+    delay: 1.2084894058539928
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 5
+    x: 198
+    y: 671
+- element:
+    delay: 0.6809548165153116
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 6
+    x: 482
+    y: 650
+- element:
+    delay: 0.40420754236905704
+    dx: 0
+    dy: -4
+    event: scroll
+    ord: 7
+    x: 479
+    y: 654
+- element:
+    delay: 0.7763827338607534
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 236
+    y: 341
+- element:
+    delay: 0.5364169363756491
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 9
+    x: 344
+    y: 446
+- element:
+    delay: 0.5921704828999309
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 10
+    x: 183
+    y: 554
+- element:
+    delay: 0.5527626278054052
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 11
+    x: 325
+    y: 614
+- element:
+    delay: 0.49884832913186483
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 12
+    x: 342
+    y: 717
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -3
+    event: scroll
+    ord: 13
+    x: 341
+    y: 717
+- element:
+    delay: 0.6279280239526049
+    dx: 0
+    dy: 0
+    event: move
+    ord: 14
+    x: 263
+    y: 477
+- element:
+    delay: 0.48630257585604947
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 15
+    x: 186
+    y: 518
+- element:
+    delay: 0.5237838521751966
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 16
+    x: 256
+    y: 621
+- element:
+    delay: 0.6026013136560714
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 17
+    x: 471
+    y: 628
+- element:
+    delay: 0.7003196650068272
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 18
+    x: 150
+    y: 696
+- element:
+    delay: 1.214643242696415
+    dx: 0
+    dy: 0
+    event: move
+    ord: 19
+    x: 977
+    y: 525
+- element:
+    delay: 0.4
+    dx: 0
+    dy: 3
+    event: scroll
+    ord: 20
+    x: 977
+    y: 525
+- element:
+    delay: 0.6734964804134009
+    dx: 0
+    dy: 0
+    event: move
+    ord: 21
+    x: 799
+    y: 308
+- element:
+    delay: 0.7478819658274349
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 22
+    x: 779
+    y: 657
+- element:
+    delay: 0.6010102121352384
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 23
+    x: 987
+    y: 737
+- element:
+    delay: 1.3528737901240389
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 24
+    x: 165
+    y: 190
+sequence_length: 24

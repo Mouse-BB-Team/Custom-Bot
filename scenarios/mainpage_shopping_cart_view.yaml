@@ -1,0 +1,116 @@
+id: '13'
+name: Sequence of adding to cart and too favorites, then cart view
+sequence:
+- element:
+    delay: 0.8110254538655972
+    dx: 0
+    dy: -14
+    event: scroll
+    ord: 1
+    x: 712
+    y: 499
+- element:
+    delay: 0.537588138126927
+    dx: 0
+    dy: 0
+    event: move
+    ord: 2
+    x: 1166
+    y: 329
+- element:
+    delay: 0.7219768953160717
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 3
+    x: 840
+    y: 415
+- element:
+    delay: 0.40140362865192275
+    dx: 0
+    dy: -12
+    event: scroll
+    ord: 4
+    x: 841
+    y: 416
+- element:
+    delay: 0.6891129608175213
+    dx: 0
+    dy: 0
+    event: move
+    ord: 5
+    x: 1125
+    y: 473
+- element:
+    delay: 0.5457170147870373
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 6
+    x: 1182
+    y: 615
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -12
+    event: scroll
+    ord: 7
+    x: 1182
+    y: 615
+- element:
+    delay: 0.6721497394876808
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 8
+    x: 1312
+    y: 356
+- element:
+    delay: 0.4315047968899357
+    dx: 0
+    dy: 21
+    event: scroll
+    ord: 9
+    x: 1279
+    y: 353
+- element:
+    delay: 0.5945868651426174
+    dx: 0
+    dy: 0
+    event: move
+    ord: 10
+    x: 1144
+    y: 182
+- element:
+    delay: 0.43268139048407966
+    dx: 0
+    dy: 0
+    event: move
+    ord: 11
+    x: 1180
+    y: 182
+- element:
+    delay: 0.4
+    dx: 0
+    dy: -2
+    event: scroll
+    ord: 12
+    x: 1180
+    y: 182
+- element:
+    delay: 0.6116801362847535
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 13
+    x: 1032
+    y: 341
+- element:
+    delay: 1.186168382087636
+    dx: 0
+    dy: 0
+    event: left-button
+    ord: 14
+    x: 204
+    y: 190
+sequence_length: 14
