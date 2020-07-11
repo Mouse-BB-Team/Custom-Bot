@@ -1,7 +1,7 @@
 import logging.config
 from pyautogui import *
-from event import EventType
-from file_saver import *
+from event import Event, EventType
+from file_saver import FileSaver
 from math import floor, sqrt
 from pynput import keyboard
 from pynput import mouse
@@ -51,13 +51,15 @@ class ScreenCollector:
         self.p_prev = p
 
     def on_scroll(self, x, y, dx, dy):
+        def is_same_direction(prev, curr):
+            return prev * curr >= 0
 
         p = (floor(x), floor(y))
 
         if len(self.events) > 0:
             previous = self.events[len(self.events) - 1]
 
-            if previous.event == EventType.SCROLL.value and previous.dx * dx >= 0 and previous.dy * dy >= 0:
+            if previous.event == EventType.SCROLL.value and is_same_direction(previous.dx, dx) and is_same_direction(previous.dy, dy):
                 previous.dx += dx
                 previous.dy += dy
             else:

@@ -29,8 +29,7 @@ if __name__ == '__main__':
     sequence_name = args.n
     sequence_id = args.i
 
-    if filename is not None and sequence_name is not None and sequence_id is not None:
-        sequence_collector = SequenceCollector(filename, sequence_name, sequence_id)
-        logger.info("Initialized screen collector for file: %s, sequence name: %s, sequence id: %s", filename, sequence_name, sequence_id)
-        logger.info("To terminate press ESC")
-        sequence_collector.run()
+    sequence_collector = SequenceCollector(filename, sequence_name, sequence_id)
+    logger.info("Initialized screen collector for file: %s, sequence name: %s, sequence id: %s", filename, sequence_name, sequence_id)
+    logger.info("To terminate press ESC")
+    sequence_collector.run()
