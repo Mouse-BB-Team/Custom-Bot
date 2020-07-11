@@ -1,7 +1,7 @@
 import logging.config
 from pyautogui import *
 from event import Event, EventType
-from file_saver import FileSaver
+from sequence_file_saver import FileSaver
 from math import floor, sqrt
 from pynput import keyboard
 from pynput import mouse
