@@ -2,10 +2,10 @@ from enum import Enum
 
 
 class EventType(Enum):
-    SCROLL = 'scroll'
+    MOVE = 'move'
     BUTTON_LEFT = 'left-button'
     BUTTON_RIGHT = 'right-button'
-    MOVE = 'move'
+    SCROLL = 'scroll'
 
 
 class Event:
